@@ -1,4 +1,17 @@
-# Understanding Pandas from the book "Pandas Cookbook"
+# Data Science Prequisites 101 - (Work in Progress)
+# Understanding Pandas, Numpy
+
+## Todo: (: x deonotes in Progress)
+- [x] Pandas Cookbook - Theodore Petrou
+- [ ] Pandas Exercices -> https://github.com/guipsamora/pandas_exercises  
+- [ ] Pandas Recipes -> https://github.com/jvns/pandas-cookbook
+- [ ] Learn Pandas -> https://github.com/tdpetrou/Learn-Pandas
+- [x] 100 Numpy Exercies
+- [ ] From Python to Numpy -> https://github.com/rougier/from-python-to-numpy
+- [ ] Python for Data Analysis -> Wes Mckinney
+- [x] Python Data Science Handbook -> Jake Vander Plas
+- [ ] Data Science from Scratch -> Joel Grus
+
 
 ## Notes to follow along:
 
