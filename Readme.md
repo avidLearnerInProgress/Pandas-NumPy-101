@@ -1,4 +1,5 @@
-# Data Science Prequisites 101 - (Work in Progress)
+# Data Science Prequisites 101 - (Work in Progress)  
+
 ## Understanding Pandas, NumPy
 
 ## Todo:
