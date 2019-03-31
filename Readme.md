@@ -1,7 +1,7 @@
 # Data Science Prequisites 101 - (Work in Progress)
 # Understanding Pandas, Numpy
 
-## Todo: (: x deonotes in Progress)
+## Todo: (: x denotes in Progress)
 - [x] Pandas Cookbook - Theodore Petrou
 - [ ] Pandas Exercices -> https://github.com/guipsamora/pandas_exercises  
 - [ ] Pandas Recipes -> https://github.com/jvns/pandas-cookbook
