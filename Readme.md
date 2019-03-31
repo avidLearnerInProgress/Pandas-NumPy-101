@@ -1,13 +1,13 @@
 # Data Science Prequisites 101 - (Work in Progress)
-# Understanding Pandas, Numpy
+## Understanding Pandas, NumPy
 
 ## Todo:
 - [ ] Pandas Cookbook - Theodore Petrou (In progress)
 - [ ] Pandas Exercices -> https://github.com/guipsamora/pandas_exercises  
 - [ ] Pandas Recipes -> https://github.com/jvns/pandas-cookbook
 - [ ] Learn Pandas -> https://github.com/tdpetrou/Learn-Pandas
-- [ ] 100 Numpy Exercies (In progress)
-- [ ] From Python to Numpy -> https://github.com/rougier/from-python-to-numpy
+- [ ] 100 NumPy Exercies (In progress)
+- [ ] From Python to NumPy -> https://github.com/rougier/from-python-to-numpy
 - [ ] Python for Data Analysis -> Wes Mckinney
 - [ ] Python Data Science Handbook -> Jake Vander Plas (In progress)
 - [ ] Data Science from Scratch -> Joel Grus
