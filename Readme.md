@@ -2,16 +2,27 @@
 
 ## Understanding Pandas, NumPy
 
-## Todo:
-- [ ] Pandas Cookbook - Theodore Petrou (In progress)
+## In Progress:
+- [ ] Pandas Cookbook -> Theodore Petrou
+	* [x] Chapter 1
+	* [x] Chapter 2
+	* [x] Chapter 3
+	* [x] Chapter 4
+	* [x] Chapter 5
+	* [x] Chapter 6
+	* [ ] Chapter 7
+- [ ] Python Data Science Handbook -> Jake Vander Plas
+	* [x] Chap 1
+	* [ ] Chap 2
+
+## Todo:	
+- [ ] Data Science from Scratch -> Joel Grus	
 - [ ] Pandas Exercices -> https://github.com/guipsamora/pandas_exercises  
 - [ ] Pandas Recipes -> https://github.com/jvns/pandas-cookbook
 - [ ] Learn Pandas -> https://github.com/tdpetrou/Learn-Pandas
 - [ ] 100 NumPy Exercies (In progress)
 - [ ] From Python to NumPy -> https://github.com/rougier/from-python-to-numpy
 - [ ] Python for Data Analysis -> Wes Mckinney
-- [ ] Python Data Science Handbook -> Jake Vander Plas (In progress)
-- [ ] Data Science from Scratch -> Joel Grus
 
 
 ## Notes to follow along:
